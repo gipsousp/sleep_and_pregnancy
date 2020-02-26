@@ -6,4 +6,4 @@ Organização: [Grupo Interdisciplinar de Pesquisa em Sono](http://www.each.usp.
 
 Período de operação: 01/09/2018 a `INDETERMINADO`
 
-Consulte o [Wiki](https://github.com/gipsousp/coracoes_de_baependi/wiki) para saber mais.
+Consulte o [Wiki](https://github.com/gipsousp/sono_e_gravidez/wiki) para saber mais.
