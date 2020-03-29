@@ -6,4 +6,6 @@ Organização: [Grupo Interdisciplinar de Pesquisa em Sono](http://www.each.usp.
 
 Período de operação: 01/09/2018 a `INDETERMINADO`
 
+Status: `EM ANDAMENTO`
+
 Consulte o [Wiki](https://github.com/gipsousp/sono_e_gravidez/wiki) para saber mais.
