@@ -1,17 +1,9 @@
-# Sono e gravidez
+# sqlr.pregnancy
 
 <!-- badges: start -->
-
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
 <!-- badges: end -->
 
-Projeto: A expressão do ciclo sono-vigília ao longo da gravidez:  uma revisão sistemática e quantitativa da literatura
+Project: Expression of the sleep-wake cycle throughout pregnancy: a systematic and quantitative literature review
 
-Organização: [Grupo Interdisciplinar de Pesquisa em Sono](http://www.each.usp.br/gipso/) (GIPSO)
-
-Período de operação: 01/09/2018 a `INDETERMINADO`
-
-Status: `EM ANDAMENTO`
-
-Consulte o [Wiki](https://github.com/gipsousp/sono_e_gravidez/wiki) para saber mais.
+Organization: [Interdisciplinary Sleep Research Group](http://each.usp.br/gipso/) (GIPSO)
