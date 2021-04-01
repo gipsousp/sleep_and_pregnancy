@@ -1,0 +1,72 @@
+Package: sqlr.pregnancy
+Title: An R Package for the Sleep-Wake Cycle Throughout Pregnancy Project
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Alicia",
+             family = "Rafaelly Vilefort Sales",
+             role = c("aut", "cph"),
+             email = "alicia.sales@usp.br",
+             comment = c(ORCID = "0000-0003-0004-4487")),
+      person(given = "Daniel",
+             family = "Vartanian",
+             role = c("aut", "cre", "cph"),
+             email = "danvartan@gmail.com",
+             comment = c(ORCID = "0000-0001-7782-759X")),
+      person(given = "Isadora",
+             family = "Rodrigues",
+             role = c("aut"),
+             email = "isadorard@usp.br",
+             comment = c(ORCID = "0000-0002-3629-6208")),
+      person(given = "Ana Amelia",
+             family = "Benedito-Silva",
+             email = "aamelia@usp.br",
+             role = c("aut", "sad"),
+             comment = c(ORCID = "0000-0003-4976-2623")),
+      person(given = "Mario",
+             family = "Pedrazzoli",
+             email = "pedrazzo@usp.br",
+             role = c("aut", "sad"),
+             comment = c(ORCID = "0000-0002-5257-591X")),
+      person(given = "Interdisciplinary Sleep Research Group (GIPSO)",
+             role = c("fnd", "cph")),
+      person(given = "University of Sao Paulo (USP)",
+             role = c("fnd")))
+Maintainer: Daniel Vartanian <danvartan@gmail.com>
+Description: R package for the project: expression of the sleep-wake cycle 
+      throughout pregnancy: a systematic quantitative literature review.
+License: MIT + file LICENSE
+URL: https://gipsousp.github.io/sqlr.pregnancy/, 
+      https://github.com/gipsousp/sqlr.pregnancy/
+BugReports: https://github.com/gipsousp/sqlr.pregnancy/issues/
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends:
+    R (>= 3.6)
+Imports: 
+    checkmate,
+    dplyr,
+    lifecycle,
+    magrittr,
+    sqlr,
+    stringr
+Suggests: 
+    covr,
+    crayon,
+    ggplot2,
+    googlesheets4,
+    grDevices,
+    knitr,
+    revtools,
+    rlang,
+    rmarkdown,
+    spelling,
+    synthesisr,
+    testthat (>= 3.0.0),
+    utils
+Remotes:
+    github::gipsousp/sqlr
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+Language: en-US
